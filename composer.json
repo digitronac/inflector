@@ -1,0 +1,13 @@
+{
+    "name": "digitronac/inflector",
+    "description": "Doctrine 1 inflector class",
+    "license": "LGPL",
+    "autoload": {
+        "psr-0": {
+            "Doctrine_": "src/"
+        }
+    },
+    "include-path": [
+        "src/"
+    ]
+}
